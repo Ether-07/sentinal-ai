@@ -252,7 +252,7 @@ Git is required if cloning the repository from GitHub.
 Clone the repository:
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Ether-07/sentinal-ai
 cd sentinal-ai
 ```
 
