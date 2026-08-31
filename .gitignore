@@ -6,15 +6,9 @@ __pycache__/
 *$py.class
 *.so
 
-# Python testing
-.pytest_cache/
-.coverage
-htmlcov/
-.pyre/
-.mypy_cache/
-.ruff_cache/
-
+# ==============================
 # Virtual environments
+# ==============================
 .venv/
 venv/
 env/
@@ -45,6 +39,11 @@ ENV/
 # ==============================
 data/raw/*
 data/processed/*
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
 
 # Keep directory structure
 !data/raw/.gitkeep
@@ -77,7 +76,6 @@ desktop.ini
 # ==============================
 .vscode/*
 !.vscode/extensions.json
-!.vscode/settings.json
 
 # ==============================
 # Temporary files
