@@ -2,6 +2,19 @@
 
 AI-Powered Payment Risk Intelligence & Investigation Platform.
 
+
+
+## 🎥 Project Demo
+
+Watch the Sentinal AI project demo and pitch video:
+
+[![Sentinal AI — Payment Risk Intelligence & Investigation Platform](docs/assets/sentinal-ai-thumbnail.jpg)](https://drive.google.com/file/d/1J5Rv3D-xX8F7uQvw1xf2TjEnNBYwlk3d/view)
+
+**[▶️ Watch the 5-minute project demo](https://drive.google.com/file/d/1J5Rv3D-xX8F7uQvw1xf2TjEnNBYwlk3d/view)**
+
+The video demonstrates the transaction-risk workflow, hybrid ML + rule-based scoring, explainable risk signals, risk decisions, dashboard monitoring, alerts, and investigation workflow.
+
+
 ## Overview
 
 Sentinal AI is a web-based payment risk intelligence platform designed to analyze payment transactions, identify potentially fraudulent behavior, explain risk decisions, and assist security and payment-risk analysts with transaction monitoring and investigation.
